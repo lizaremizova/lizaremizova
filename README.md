@@ -7,6 +7,8 @@
 <img src="https://storage.tally.so/46c3a05e-ef49-4477-bfc2-61b06e136b3a/telegram-bot.png" width="10%">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="10%">
 <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" width="10%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" width="10%">
+
 </p>
 
 <!--
