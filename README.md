@@ -5,8 +5,8 @@
 <img src="https://storage.tally.so/3a4c5a2e-a412-41b4-bad5-61899c529461/4515839.png" width="10%">
 <img src="https://storage.tally.so/3f9bac6c-8fd5-40ae-a50b-096d362d2fe8/136443.png" width="10%">
 <img src="https://storage.tally.so/46c3a05e-ef49-4477-bfc2-61b06e136b3a/telegram-bot.png" width="10%">
-<img src="https://i.pinimg.com/474x/6c/16/aa/6c16aa760fe460914e60302fd80883c7.jpg)](https://cdn-icons-png.flaticon.com/512/919/919826.png)" width="10%">
-<img src="https://storage.tally.so/46c3a05e-ef49-4477-bfc2-61b06e136b3a/telegram-bot.png" width="10%">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="10%">
+<img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png" width="10%">
 </p>
 
 <!--
